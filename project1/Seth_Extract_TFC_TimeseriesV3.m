@@ -15,6 +15,11 @@ for i=1:length(files)
     Str=fileread(filename);
     fid=fopen(filename,'rt');
 
+    
+    %test add
+    
+    
+    
     %-----------------------------------------------------------------%
     %                     GET RID OF THE HEADER                       %
     %-----------------------------------------------------------------%
