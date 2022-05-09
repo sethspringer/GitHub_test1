@@ -8,7 +8,7 @@ function varargout = seth_test_GUI(varargin)
 %
 %      TEST_GUI('CALLBACK',hObject,eventData,handles,...) calls the local
 %      function named CALLBACK in TEST_GUI.M with the given input arguments.
-%
+% 
 %      TEST_GUI('Property','Value',...) creates a new TEST_GUI or raises the
 %      existing singleton*.  Starting from the left, property value pairs are
 %      applied to the GUI before test_GUI_OpeningFcn gets called.  An
