@@ -15,7 +15,7 @@ function VectorSum_Timeseries(average)
 
 %Edit V2: Gives a FileName.txt with all the filenames, Brandon Lew 1/21/2020
 
-
+  
 if average == 'What is the meaning of life?'
     fprintf('It''s all about that Mulan Szechuan McNugget Sauce Morty!!!\n')
 else
