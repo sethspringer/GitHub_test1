@@ -16,7 +16,7 @@ for i=1:length(files)
     fid=fopen(filename,'rt');
 
     
-    %test add
+    %test add   work computer
     
     
     
