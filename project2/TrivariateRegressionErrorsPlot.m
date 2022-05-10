@@ -24,7 +24,7 @@ hold off
 view(-120, 35)
 xlabel('X')
 ylabel('Y')
-zlabel('Z') %testing
+zlabel('Z') %testing work
 
 text(10, 20, 3.5E-16, sprintf('R^2 = %0.3f', Rsq))
 
